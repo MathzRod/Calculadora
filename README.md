@@ -36,3 +36,15 @@ A estrutura de arquivos do projeto é a seguinte:
 ├── style.css       # Estilos da calculadora
 ├── calculator.js   # Lógica de funcionamento da calculadora
 └── README.md       # Documentação do projeto
+
+## Estilo
+
+- O arquivo `style.css` define o estilo visual da calculadora. Abaixo está um resumo dos principais estilos aplicados:
+
+- **Geral**: Reseta margens e preenchimentos para consistência.
+- **`body`**: Centraliza a calculadora e define a cor do fundo.
+- **`.calculator`**: Define a aparência da calculadora, incluindo tamanho, cor e sombra.
+- **`.result`**: Formata o display de resultado.
+- **`.buttons`**: Organiza os botões em uma grade.
+- **Botões**: Estilos diferenciados para números, operadores e funções auxiliares.
+- **Interação**: Efeito visual quando um botão é pressionado.

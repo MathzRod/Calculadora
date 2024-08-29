@@ -9,6 +9,8 @@ Uma calculadora simples baseada em JavaScript, HTML e CSS.
 - [Estrutura de Arquivos](#estrutura-de-arquivos)
 - [Estilo](#estilo)
 - [Lógica de Funcionamento](#lógica-de-funcionamento)
+- [en](#English)
+- [es](#Español)
 
 ## Visão Geral
 
@@ -77,3 +79,88 @@ O arquivo `calculator.js` contém a lógica para a operação da calculadora. Aq
 ### Eventos
 
 - **Adiciona um evento de clique a cada botão**, que chama as funções apropriadas com base no texto do botão.
+
+
+### English
+
+# Calculator
+
+A simple calculator built with JavaScript, HTML, and CSS.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [File Structure](#file-structure)
+- [Style](#style)
+- [Functionality Overview](#functionality-overview)
+
+## Overview
+
+This project implements a basic calculator that performs common arithmetic operations such as addition, subtraction, multiplication, and division, as well as providing additional functionalities like percentage calculation, sign inversion, and a reset button.
+
+## Features
+
+- **Basic Arithmetic Operations:**
+  - Addition.
+  - Subtraction.
+  - Multiplication.
+  - Division.
+- **Auxiliary Functions:**
+  - Percentage calculation.
+  - Sign inversion (+/-).
+  - Display clearing (C).
+- **Responsive Interface:** Adaptable to different screen sizes.
+
+## File Structure
+
+The project's file structure is as follows:
+
+```plaintext
+├── index.html      # Main structure of the calculator
+├── style.css       # Styles for the calculator
+├── calculator.js   # Functionality logic of the calculator
+└── README.md       # Project documentation
+```
+
+## Style
+
+The `style.css` file defines the visual style of the calculator. Below is a summary of the main styles applied:
+
+- **General**: Resets margins and paddings for consistency.
+- **`body`**: Centers the calculator and sets the background color.
+- **`.calculator`**: Defines the appearance of the calculator, including size, color, and shadow.
+- **`.result`**: Formats the result display.
+- **`.buttons`**: Organizes buttons in a grid.
+- **Buttons**: Differentiated styles for numbers, operators, and auxiliary functions.
+- **Interaction**: Visual effect when a button is pressed.
+
+## Functionality Overview
+
+The `calculator.js` file contains the logic for the calculator's operation. Here is an overview of the code:
+
+### Element Selection
+
+- Selects the element that displays the result and all the calculator buttons.
+
+### Main Variables
+
+- **`currentNumber`**: Stores the currently entered number.
+- **`firstOperand`**: Stores the first operand.
+- **`operator`**: Stores the selected operator (`+`, `-`, `X`, `/`).
+- **`restart`**: Indicates if the next digit should replace the current number.
+
+### Functions
+
+- **`updateResult(originClear = false)`**: Updates the calculator display.
+- **`addDigit(digit)`**: Adds digits to the current number.
+- **`setOperator(newOperator)`**: Sets the mathematical operator.
+- **`calculate()`**: Performs the mathematical calculation.
+- **`clearCalculator()`**: Clears the calculator.
+- **`setPorcentage()`**: Calculates the percentage of the current number.
+
+### Events
+
+- Adds a click event to each button, which calls the appropriate functions based on the button's text.
+
+

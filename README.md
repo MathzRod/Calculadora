@@ -80,6 +80,7 @@ O arquivo `calculator.js` contém a lógica para a operação da calculadora. Aq
 
 - **Adiciona um evento de clique a cada botão**, que chama as funções apropriadas com base no texto do botão.
 
+___
 
 ### English
 
@@ -162,6 +163,8 @@ The `calculator.js` file contains the logic for the calculator's operation. Here
 ### Events
 
 - Adds a click event to each button, which calls the appropriate functions based on the button's text.
+
+___
 
 ### Español
 

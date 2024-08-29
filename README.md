@@ -176,8 +176,6 @@ Una calculadora simple basada en JavaScript, HTML y CSS.
 - [Estructura de Archivos](#estructura-de-archivos)
 - [Estilo](#estilo)
 - [Lógica de Funcionamiento](#lógica-de-funcionamiento)
-- [en](#english)
-- [es](#español)
 
 ## Visión General
 

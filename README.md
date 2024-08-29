@@ -36,6 +36,7 @@ A estrutura de arquivos do projeto é a seguinte:
 ├── style.css       # Estilos da calculadora
 ├── calculator.js   # Lógica de funcionamento da calculadora
 └── README.md       # Documentação do projeto
+```
 
 ## Estilo
 

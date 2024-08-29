@@ -6,14 +6,10 @@ Uma calculadora simples baseada em JavaScript, HTML e CSS.
 
 - [Visão Geral](#visão-geral)
 - [Funcionalidades](#funcionalidades)
-- [Instalação](#instalação)
 - [Uso](#uso)
 - [Estrutura de Arquivos](#estrutura-de-arquivos)
 - [Estilo](#estilo)
 - [Lógica de Funcionamento](#lógica-de-funcionamento)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Autores](#autores)
 
 ## Visão Geral
 

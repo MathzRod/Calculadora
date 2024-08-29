@@ -6,7 +6,6 @@ Uma calculadora simples baseada em JavaScript, HTML e CSS.
 
 - [Visão Geral](#visão-geral)
 - [Funcionalidades](#funcionalidades)
-- [Uso](#uso)
 - [Estrutura de Arquivos](#estrutura-de-arquivos)
 - [Estilo](#estilo)
 - [Lógica de Funcionamento](#lógica-de-funcionamento)
@@ -27,4 +26,9 @@ Este projeto implementa uma calculadora básica que realiza operações aritmét
   - Inversão de sinal (+/-).
   - Limpeza do display (C).
 - **Interface Responsiva:** Adaptável a diferentes tamanhos de tela.
+
+├── index.html      # Estrutura principal da calculadora
+├── style.css       # Estilos da calculadora
+├── calculator.js   # Lógica de funcionamento da calculadora
+└── README.md       # Documentação do projeto
 

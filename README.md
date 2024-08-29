@@ -1,7 +1,7 @@
 # Calculadora
 
-Uma calculadora simples baseada em JavaScript, HTML e CSS.
-[Acesse e teste](https://calculadoraios-mathz.vercel.app)
+- Uma calculadora simples baseada em JavaScript, HTML e CSS.
+- [Acesse e teste](https://calculadoraios-mathz.vercel.app)
 
 ## Índice
 
@@ -87,8 +87,8 @@ ___
 
 # Calculator
 
-A simple calculator built with JavaScript, HTML, and CSS.
-[Acess and test](https://calculadoraios-mathz.vercel.app)
+- A simple calculator built with JavaScript, HTML, and CSS.
+- [Acess and test](https://calculadoraios-mathz.vercel.app)
 
 ## Table of Contents
 
@@ -172,8 +172,8 @@ ___
 
 # Calculadora
 
-Una calculadora simple basada en JavaScript, HTML y CSS.
-[Aacceso y prueba](https://calculadoraios-mathz.vercel.app)
+- Una calculadora simple basada en JavaScript, HTML y CSS.
+- [Aacceso y prueba](https://calculadoraios-mathz.vercel.app)
 
 ## Índice
 

@@ -26,9 +26,13 @@ Este projeto implementa uma calculadora básica que realiza operações aritmét
   - Inversão de sinal (+/-).
   - Limpeza do display (C).
 - **Interface Responsiva:** Adaptável a diferentes tamanhos de tela.
+- 
+## Estrutura de Arquivos
 
+A estrutura de arquivos do projeto é a seguinte:
+
+```plaintext
 ├── index.html      # Estrutura principal da calculadora
 ├── style.css       # Estilos da calculadora
 ├── calculator.js   # Lógica de funcionamento da calculadora
 └── README.md       # Documentação do projeto
-
